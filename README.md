@@ -284,24 +284,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 </div>
 
-🎓 **Background:**
-- **IITM BS Data Science Student** - Applying cutting-edge data science and AI concepts to real-world problems
-- **Financial Technology Enthusiast** - Passionate about democratizing financial advice through AI
-
-🚀 **Expertise:**
-- **Generative AI**: Structured Output, RAG, Embeddings, Function Calling, Agent Workflows
-- **Machine Learning**: Data analysis, pattern recognition, predictive modeling
-- **Financial Domain**: Personal finance, budgeting, investment analysis, financial planning
-- **Technology Stack**: Python, Google Gemini, LangChain, LangGraph, ChromaDB
-
-💡 **Project Motivation:**
-This project represents the culmination of intensive learning in generative AI, combining technical expertise with practical financial applications. The goal is to demonstrate how advanced AI capabilities can solve real-world problems while making financial advice accessible to everyone.
-
-🌟 **Connect with the Author:**
-- 🐙 **GitHub**: [@yourusername](https://github.com/yourusername) - Explore more AI and data science projects
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile) - Professional networking and collaboration
-- 📧 **Email**: your.email@example.com - Open to opportunities and discussions
-- 🎯 **Portfolio**: [Your Portfolio Website](https://yourportfolio.com) - Complete showcase of projects
 
 ---
 
