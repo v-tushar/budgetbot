@@ -7,12 +7,12 @@
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-5%20Capabilities-purple.svg)
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4.svg)
 
-> 🎓 **Kaggle 5-Day Gen AI Intensive Course Capstone Project**  
+> 🎓 **Gen AI Intensive Project**  
 > An intelligent financial advisory system showcasing 5 key Gen AI capabilities: Structured Output/JSON Mode, RAG (Retrieval Augmented Generation), Embeddings, Function Calling, and LangGraph Agents.
 
 ## 🚀 Project Overview
 
-FinGenius is an AI-powered personal finance advisor that revolutionizes how users interact with their financial data. Built as a capstone project for the **Kaggle 5-Day Gen AI Intensive Course**, this system demonstrates cutting-edge generative AI capabilities applied to real-world financial challenges.
+FinGenius is an AI-powered personal finance advisor that revolutionizes how users interact with their financial data. , this system demonstrates cutting-edge generative AI capabilities applied to real-world financial challenges.
 
 ### ✨ Key Features
 
@@ -253,7 +253,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **🎓 Kaggle Team**: For the excellent 5-Day Gen AI Intensive Course
 - **🤖 Google**: For providing the powerful Gemini AI platform
 - **🔗 LangChain Community**: For the incredible agent framework and tools
 - **🌟 Open Source Community**: For the various libraries and tools used
@@ -287,7 +286,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🎓 **Background:**
 - **IITM BS Data Science Student** - Applying cutting-edge data science and AI concepts to real-world problems
-- **Kaggle 5-Day Gen AI Intensive Course Graduate** - Completed intensive training in generative AI capabilities
 - **Financial Technology Enthusiast** - Passionate about democratizing financial advice through AI
 
 🚀 **Expertise:**
