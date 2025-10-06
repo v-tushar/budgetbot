@@ -1,19 +1,19 @@
-# FinGenius: AI Personal Finance Advisor
+# BudgetBot: AI Personal Finance Advisor
 
 A simple AI-powered financial advisor that helps you manage your money using 5 different AI technologies.
 
-## What is FinGenius?
+## What is BudgetBot?
 
-FinGenius is a smart financial assistant that can:
+BudgetBot is a smart financial assistant that can:
 - Categorize your spending automatically
 - Answer financial questions with expert knowledge
 - Calculate budgets and financial plans
 - Find patterns in your spending
 - Give personalized financial advice
 
-## Why Use FinGenius?
+## Why Use BudgetBot?
 
-Managing money can be confusing. FinGenius makes it simple by:
+Managing money can be confusing. BudgetBot makes it simple by:
 - Using AI to understand your financial data
 - Providing clear, helpful advice
 - Automating complex calculations
@@ -48,7 +48,7 @@ Managing money can be confusing. FinGenius makes it simple by:
 
 ## Files in This Project
 
-- `fingenius-notebook-gemini-agent.ipynb` - Main Jupyter notebook (recommended)
+- `budgetbot-notebook-gemini-agent.ipynb` - Main Jupyter notebook (recommended)
 - `install_dependencies.py` - Script to install required packages
 - `README.md` - This file
 
@@ -77,7 +77,7 @@ Managing money can be confusing. FinGenius makes it simple by:
    ```bash
    jupyter notebook
    ```
-   Then open `fingenius-notebook-gemini-agent.ipynb`
+   Then open `budgetbot-notebook-gemini-agent.ipynb`
 
 5. **Add your API key in the first cell and run all cells**
 
